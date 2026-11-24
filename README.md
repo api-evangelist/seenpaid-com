@@ -1,4 +1,4 @@
-# seenpaid-com
+# Seenpaid
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,152 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-seenpaid-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://seenpaid.com/
+Seenpaid provides an agentic social media scheduler that lets users post to 21 platforms from a single dashboard, with AI agent integration and revenue attribution per post. It offers a 7‑day trial and connects to Stripe for payments, targeting marketers and creators seeking automated cross‑posting and performance tracking.
+
+**Areas:** Social Media · Scheduler · AI Integration · Marketing · Automation
+
+## Seenpaid on APIs.io
+
+Everything profiled for Seenpaid is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/seenpaid-com/](https://apis.io/providers/seenpaid-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (19)
+
+- [Seenpaid Accounts API](https://apis.io/apis/seenpaid-com/seenpaid-com-accounts-api/) — The Accounts API from Seenpaid — 9 operation(s) for accounts.
+- [Seenpaid Analytics API](https://apis.io/apis/seenpaid-com/seenpaid-com-analytics-api/) — The Analytics API from Seenpaid — 4 operation(s) for analytics.
+- [Seenpaid Api Keys API](https://apis.io/apis/seenpaid-com/seenpaid-com-api-keys-api/) — The Api Keys API from Seenpaid — 2 operation(s) for api keys.
+- [Seenpaid Autopilot API](https://apis.io/apis/seenpaid-com/seenpaid-com-autopilot-api/) — The Autopilot API from Seenpaid — 4 operation(s) for autopilot.
+- [Seenpaid Billing API](https://apis.io/apis/seenpaid-com/seenpaid-com-billing-api/) — The Billing API from Seenpaid — 4 operation(s) for billing.
+- [Seenpaid Bio API](https://apis.io/apis/seenpaid-com/seenpaid-com-bio-api/) — The Bio API from Seenpaid — 2 operation(s) for bio.
+- [Seenpaid Experiments API](https://apis.io/apis/seenpaid-com/seenpaid-com-experiments-api/) — The Experiments API from Seenpaid — 3 operation(s) for experiments.
+- [Seenpaid Health API](https://apis.io/apis/seenpaid-com/seenpaid-com-health-api/) — The Health API from Seenpaid — 2 operation(s) for health.
+- [Seenpaid Insights API](https://apis.io/apis/seenpaid-com/seenpaid-com-insights-api/) — The Insights API from Seenpaid — 2 operation(s) for insights.
+- [Seenpaid Media API](https://apis.io/apis/seenpaid-com/seenpaid-com-media-api/) — The Media API from Seenpaid — 3 operation(s) for media.
+- [Seenpaid Notifications API](https://apis.io/apis/seenpaid-com/seenpaid-com-notifications-api/) — The Notifications API from Seenpaid — 3 operation(s) for notifications.
+- [Seenpaid Posts API](https://apis.io/apis/seenpaid-com/seenpaid-com-posts-api/) — The Posts API from Seenpaid — 4 operation(s) for posts.
+- [Seenpaid Proof API](https://apis.io/apis/seenpaid-com/seenpaid-com-proof-api/) — The Proof API from Seenpaid — 1 operation(s) for proof.
+- [Seenpaid Recycle API](https://apis.io/apis/seenpaid-com/seenpaid-com-recycle-api/) — The Recycle API from Seenpaid — 1 operation(s) for recycle.
+- [Seenpaid Referrals API](https://apis.io/apis/seenpaid-com/seenpaid-com-referrals-api/) — The Referrals API from Seenpaid — 1 operation(s) for referrals.
+- [Seenpaid Revenue API](https://apis.io/apis/seenpaid-com/seenpaid-com-revenue-api/) — The Revenue API from Seenpaid — 4 operation(s) for revenue.
+- [Seenpaid Revenue Connectors API](https://apis.io/apis/seenpaid-com/seenpaid-com-revenue-connectors-api/) — The Revenue Connectors API from Seenpaid — 2 operation(s) for revenue connectors.
+- [Seenpaid Stats API](https://apis.io/apis/seenpaid-com/seenpaid-com-stats-api/) — The Stats API from Seenpaid — 1 operation(s) for stats.
+- [Seenpaid Stripe Connect API](https://apis.io/apis/seenpaid-com/seenpaid-com-stripe-connect-api/) — The Stripe Connect API from Seenpaid — 4 operation(s) for stripe connect.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Seenpaid Agentic Access](https://apis.io/agentic-access/seenpaid-com/seenpaid-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [CreatePostRequest](https://apis.io/schemas/seenpaid-com/seenpaid-com-create-post-request/)
+- [Media](https://apis.io/schemas/seenpaid-com/seenpaid-com-media/)
+- [Platform](https://apis.io/schemas/seenpaid-com/seenpaid-com-platform/)
+- [Post](https://apis.io/schemas/seenpaid-com/seenpaid-com-post/)
+- [SocialAccount](https://apis.io/schemas/seenpaid-com/seenpaid-com-social-account/)
+- [UpdatePostRequest](https://apis.io/schemas/seenpaid-com/seenpaid-com-update-post-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Seenpaid Com Context](https://apis.io/jsonld/seenpaid-com/seenpaid-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Seenpaid API Rules](https://apis.io/rules/seenpaid-com/seenpaid-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Seenpaid Authentication](https://apis.io/security/seenpaid-com/seenpaid-com-authentication/)
+- [Seenpaid Domain Security](https://apis.io/security/seenpaid-com/seenpaid-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Seenpaid Scopes](https://apis.io/scopes/seenpaid-com/seenpaid-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Seenpaid Plans Pricing](https://apis.io/plans/seenpaid-com/seenpaid-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://seenpaid.com/)
+- [Documentation](https://seenpaid.com/docs)
+- [API reference](https://seenpaid.com/openapi.json)
+- [Pricing](https://seenpaid.com/pricing)
+- [Blog](https://seenpaid.com/blog)
+- [Terms of service](https://seenpaid.com/terms)
+- [Privacy policy](https://seenpaid.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 56.2** — strong · rubric 0.28.0 · scored 2026-11-24
+
+| Facet | Score |
+|---|---|
+| Discoverability | 76.8 |
+| Contract quality | 59.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 7.1 |
+| Developer ergonomics | 46.9 |
+| Access clarity | 59.1 |
+
+**Agent readiness 55.9** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 28.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/seenpaid-com/](https://apis.io/providers/seenpaid-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Seenpaid: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/seenpaid-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
